@@ -1,0 +1,9 @@
+C:\Users\johnc\source\repos\BonkApp\BonkApp\bin\Debug\BonkApp.exe.config
+C:\Users\johnc\source\repos\BonkApp\BonkApp\bin\Debug\BonkApp.exe
+C:\Users\johnc\source\repos\BonkApp\BonkApp\bin\Debug\BonkApp.pdb
+C:\Users\johnc\source\repos\BonkApp\BonkApp\obj\Debug\BonkApp.Form1.resources
+C:\Users\johnc\source\repos\BonkApp\BonkApp\obj\Debug\BonkApp.Properties.Resources.resources
+C:\Users\johnc\source\repos\BonkApp\BonkApp\obj\Debug\BonkApp.csproj.GenerateResource.cache
+C:\Users\johnc\source\repos\BonkApp\BonkApp\obj\Debug\BonkApp.csproj.CoreCompileInputs.cache
+C:\Users\johnc\source\repos\BonkApp\BonkApp\obj\Debug\BonkApp.exe
+C:\Users\johnc\source\repos\BonkApp\BonkApp\obj\Debug\BonkApp.pdb
